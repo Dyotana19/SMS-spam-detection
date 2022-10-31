@@ -1,1 +1,1 @@
-# SMS-spa-detection
+# SMS-spam-detection
